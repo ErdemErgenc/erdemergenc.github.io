@@ -45998,7 +45998,7 @@ $S:0}
 A.xr.prototype={
 S(a){return A.nJ(B.dY,null,new A.im(new A.adK(this,A.ag(a)),null))},
 PI(a){var s=null
-return new A.cc(B.EC,A.eX(A.a([B.cc,A.aK4(A.kB(A.jt(A.jV("\ud83d\udc4b Merhaba!",A.r5().$2$color$fontSize(a.ax.b,60),s)),s,A.c6(8e5,0,0)),0.3),B.zj,A.aDG(A.kB(A.jt(A.jV("Ben Erdem,\nFlutter Developer",A.r5().$3$color$fontSize$fontWeight(B.z,42,B.aj),s)),s,A.c6(1e6,0,0)),-0.3),B.cc,A.aDG(A.kB(A.jt(A.jV("Modern, sade ve kullan\u0131c\u0131 dostu mobil & web uygulamalar geli\u015ftiriyorum.",A.r5().$2$color$fontSize(B.cq,18),s)),s,A.c6(12e5,0,0)),-0.2),B.hN,new A.vo(B.Fu,"erdem@example.com",s),B.eN,new A.vo(B.Fw,"+90 555 555 55 55",s),B.eN,new A.vo(B.Fv,"\u0130stanbul, T\xfcrkiye",s)],t.p),B.aV,B.bB,B.T),s)},
+return new A.cc(B.EC,A.eX(A.a([B.cc,A.aK4(A.kB(A.jt(A.jV("\ud83d\udc4b Merhaba!",A.r5().$2$color$fontSize(a.ax.b,40),s)),s,A.c6(8e5,0,0)),0.3),B.zj,A.aDG(A.kB(A.jt(A.jV("Ben Erdem,\nFlutter Developer",A.r5().$3$color$fontSize$fontWeight(B.z,42,B.aj),s)),s,A.c6(1e6,0,0)),-0.3),B.cc,A.aDG(A.kB(A.jt(A.jV("Modern, sade ve kullan\u0131c\u0131 dostu mobil & web uygulamalar geli\u015ftiriyorum.",A.r5().$2$color$fontSize(B.cq,18),s)),s,A.c6(12e5,0,0)),-0.2),B.hN,new A.vo(B.Fu,"erdem@example.com",s),B.eN,new A.vo(B.Fw,"+90 555 555 55 55",s),B.eN,new A.vo(B.Fv,"\u0130stanbul, T\xfcrkiye",s)],t.p),B.aV,B.bB,B.T),s)},
 PJ(){return A.fw(A.kB(A.jt(A.h2(A.aJr("assets/animations/developer.riv",A.a(["GDSC Modules"],t.s),B.eY),750,800)),null,A.c6(6e5,0,0)),null,null)}}
 A.adK.prototype={
 $2(a,b){var s=null,r=this.a,q=this.b,p=t.p
@@ -46244,7 +46244,7 @@ r=t.p
 s=A.q3(A.a([A.hI("Men\xfc",p,p,p,s==null?p:s.Y7(B.aj),p),A.ae5(p,p,B.FH,p,p,new A.a9h(a),p,p,p)],r),B.V,B.k7,B.T)
 q=this.a
 q=A.aK5(A.a([q.vm(a,"Ana Sayfa","/"),B.dv,q.vm(a,"Hakk\u0131mda","/about"),B.dv,q.vm(a,"Yetenekler","/skills"),B.dv,q.vm(a,"Projeler","/projects"),B.dv,q.vm(a,"\u0130leti\u015fim","/contact")],r),!0,!0,!0)
-return A.lm(p,A.eX(A.a([new A.cc(B.mU,s,p),B.E0,A.iT(new A.RT(q,B.je,B.aF,!1,p,p,B.Aq,!1,p,9,B.ag,B.yr,p,B.a5,B.ap,p),1,p)],r),B.aV,B.W,B.T),B.x,p,p,new A.dM(l.fy,p,p,B.B2,k,p,B.as),p,m.a.b*0.7,B.Er,p,o,p,n.a.a*0.4)},
+return A.lm(p,A.eX(A.a([new A.cc(B.mU,s,p),B.E0,A.iT(new A.RT(q,B.je,B.aF,!1,p,p,B.Aq,!1,p,9,B.ag,B.yr,p,B.a5,B.ap,p),1,p)],r),B.aV,B.W,B.T),B.x,p,p,new A.dM(l.fy,p,p,B.B2,k,p,B.as),p,m.a.b*0.7,B.Er,p,o,p,n.a.a*0.6)},
 $S:317}
 A.a9h.prototype={
 $0(){return A.tS(this.a,!1).eR()},
